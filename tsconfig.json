@@ -22,5 +22,5 @@
   },
   "include": [
     "src/**/*.ts"
-  ]
+, "src/components/search/Context.tsx", "src/components/search/Search.tsx"  ]
 }
