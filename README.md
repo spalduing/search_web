@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This frontend Project works alongside with a backend api hosted at
+### https://github.com/spalduing/search_api
+To Successfully run this project you have to create a local .env environment variable named as
+## "REACT_APP_DEV_SEARCH_WEBBAPI_URL"
+then set its value to
+### http://localhost:5000/
+
+## you also take in count that both project use yarn for the dependencies management
+
+
 ## Available Scripts
 
 In the project directory, you can run:
